@@ -110,7 +110,7 @@ const Index = () => {
               <div className="grid md:grid-cols-3 gap-8 items-center">
                 <div className="md:col-span-2 space-y-6">
                   <p className="text-lg text-foreground leading-relaxed">
-                    Mother of two toddlers, former bakery owner, McKinsey consultant and Chief of Staff. The thread tying all of these together? It's curiosity, an underdog's determination, and a belief that I can fill any shoe if I take the time to deeply understand the problem at hand.
+                    Mother of two, former small business owner, McKinsey consultant and Chief of Staff. The thread tying all of these together? It's curiosity, an underdog's determination, and a belief that I can fill any shoe if I take the time to deeply understand the problem at hand.
                   </p>
                   <p className="text-muted-foreground italic leading-relaxed">
                     I'm driven by curiosity and the confidence to ask tough questions--it's why my baked goods are excellent and I've garnered deep trust from executives.
